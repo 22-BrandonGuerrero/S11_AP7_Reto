@@ -7,7 +7,7 @@
 # API DE SERVICIOS COGNITIVO 🏫
 ------------------------
 
-## 🧠 Servicios Cognitivos de Azure
+## 🧠 Servicios Cognitivos de Azuree
 
 **Inteligencia Artificial al alcance de todos**
 
