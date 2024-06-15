@@ -2,7 +2,7 @@
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOjbHuJBH9huN-5jibWLv7rjFPmydwEY2G4NW5sPHxMGoV5jJjFu9MwE66lGmR16d6zKZn1JOjTvP-2YJRNj_Lvnm9B3rANpXFntENwNEIHD4BM2QaIsrIQnoNkZmYbd1aAJUrs7eeVmA/s1600/Banner_Blue_Transparent_PNG_Clip_Ar.png" alt="Banner del Proyecto">
 </div>
 
-# Hi, Welcome! 👋
+# Hi, Welcome!! 👋
 
 # API DE SERVICIOS COGNITIVO 🏫
 ------------------------
